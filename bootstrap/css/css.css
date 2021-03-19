@@ -1,0 +1,80 @@
+/*[class*="col"] {
+  background-color: rgba(86, 61, 124, .15);
+  border: 1px solid rgba(86, 61, 124, .2);
+}*/
+
+body
+{
+	background-color: #303030;
+	color: white;
+}
+
+.fluid-container
+{
+	padding-left: 4rem;
+	padding-right: 4rem;
+}
+
+canvas
+{
+	padding: 4rem;
+}
+
+.dropdown-menu
+{
+	background-color: #a0a0a0;
+	color: white;
+}
+
+.dropdown-item:hover
+{
+	background-color: black;
+	color: white;
+}
+
+.help
+{
+	width: 100% !important;
+}
+
+.bg-light
+{
+  background-color: #6d6d6d!important;
+  z-index: 100;
+  flex-basis: 10em;
+  width: 100%;
+}
+
+.navbar-collapse{
+  background-color: #6d6d6d;
+  border: none;
+}
+
+.navbar-toggler
+{
+  background-color: #6d6d6d;
+}
+
+.navbar-light .navbar-toggler
+{
+  border-color: #c4c4c4;
+}
+
+.navbar-light .navbar-nav .nav-link:hover
+{
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+  color: #c4c4c4;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+h1
+{
+  padding-top: 2rem;
+}
+
+.credits{padding-top:4rem;}
